@@ -1,0 +1,22 @@
+.mar{
+  margin: 150px;
+}
+.titlebar {
+  color:#FFFFFF;
+  background-color: #33BEBE;
+  font-family: "source Sans Pro","Arial",sans-serif;
+  font-size: 70px;
+  padding-top: 20px;
+  padding-left: 10px;
+  padding-bottom: 5px;
+}
+.description{
+  color:#7C8B88;
+  font-size: 40px;
+  padding-left: 10px;
+  font-family: "source Sans Pro","Arial",sans-serif;
+
+}
+.container{
+  display: flex;
+}
